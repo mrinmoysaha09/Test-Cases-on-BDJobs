@@ -1,2 +1,2 @@
-# Test-Cases-on-BDJobs
-This test case suite is designed to validate the Name, Email, Mobile, Password, and Confirm Password fields in the account creation form.  These test cases ensure that the form performs correct input validation, displays error messages for invalid entries, and enforces required field constraints for smooth account registration.
+# Test-Cases-on- BD Jobs Account Creation Form
+This test suite validates the Name, Email, Mobile, Password, and Confirm Password fields on the BD Jobs account registration form. The test cases ensure proper input validation, display of error messages for invalid inputs and enforcement of required field rules.
